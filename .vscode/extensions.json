@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "antfu.slidev",
-    "vue.volar"
+    "vue.volar",
+    "davidanson.vscode-markdownlint"
   ]
 }

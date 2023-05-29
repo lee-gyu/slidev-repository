@@ -1,0 +1,11 @@
+{
+  "markdownlint.config": {
+    "MD003": false,
+    "MD022": false,
+    "MD025": false,
+    "MD033": false
+  },
+  "cSpell.words": [
+    "slidev"
+  ]
+}

@@ -15,13 +15,13 @@ transition: slide-left
 title: Welcome to Slidev
 ---
 
-# Welcome to Slidev
+# Modern Javascript 개발 환경
 
-Presentation slides for developers
+현대 Javascript를 이용한 효과적인 웹 애플리케이션 개발
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
+    다음 페이지 <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
@@ -29,7 +29,7 @@ Presentation slides for developers
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon:edit />
   </button>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://github.com/lee-gyu/slidev-repository" target="_blank" alt="GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -105,12 +105,12 @@ Hover on the bottom-left corner to see the navigation's controls panel, [learn m
 
 ### Keyboard Shortcuts
 
-|     |     |
-| --- | --- |
-| <kbd>right</kbd> / <kbd>space</kbd>| next animation or slide |
+|                                                     |                             |
+| --------------------------------------------------- | --------------------------- |
+| <kbd>right</kbd> / <kbd>space</kbd>                 | next animation or slide     |
 | <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
-| <kbd>up</kbd> | previous slide |
-| <kbd>down</kbd> | next slide |
+| <kbd>up</kbd>                                       | previous slide              |
+| <kbd>down</kbd>                                     | next slide                  |
 
 <!-- https://sli.dev/guide/animations.html#click-animations -->
 <img

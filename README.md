@@ -1,11 +1,11 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 개인 발표 자료 Repository
 
-To start the slide show:
+`slidev` 기반 발표 자료 및 vercel deploy를 위한 repository입니다.
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+항목 정리 예정
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+- 모던 Javascript 개발 환경
+- 모던 Javascript Deep Dive
+- 웹 레이아웃
+- React Depp Dive
+- Typescript
